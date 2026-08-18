@@ -1,0 +1,7 @@
+C:\Users\B09S304est\Documents\Alejandra Romero\FundamentosProgramacionMJ12AlejandraRomero\taller_preparacion\obj\Debug\taller_preparacion.csproj.AssemblyReference.cache
+C:\Users\B09S304est\Documents\Alejandra Romero\FundamentosProgramacionMJ12AlejandraRomero\taller_preparacion\obj\Debug\taller_preparacion.csproj.CoreCompileInputs.cache
+C:\Users\B09S304est\Documents\Alejandra Romero\FundamentosProgramacionMJ12AlejandraRomero\taller_preparacion\bin\Debug\taller_preparacion.exe.config
+C:\Users\B09S304est\Documents\Alejandra Romero\FundamentosProgramacionMJ12AlejandraRomero\taller_preparacion\bin\Debug\taller_preparacion.exe
+C:\Users\B09S304est\Documents\Alejandra Romero\FundamentosProgramacionMJ12AlejandraRomero\taller_preparacion\bin\Debug\taller_preparacion.pdb
+C:\Users\B09S304est\Documents\Alejandra Romero\FundamentosProgramacionMJ12AlejandraRomero\taller_preparacion\obj\Debug\taller_preparacion.exe
+C:\Users\B09S304est\Documents\Alejandra Romero\FundamentosProgramacionMJ12AlejandraRomero\taller_preparacion\obj\Debug\taller_preparacion.pdb
